@@ -1,1 +1,1 @@
-# ExcRate_USDCOP
+# usdcop_app
